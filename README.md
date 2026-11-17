@@ -1,2 +1,4 @@
-# black-eye
-script kiddies 
+git clone https://github.com/whoamitang/Blackeye
+cd Blackeye
+bash blackeye.sh
+
